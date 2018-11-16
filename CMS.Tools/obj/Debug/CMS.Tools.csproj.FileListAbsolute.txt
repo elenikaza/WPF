@@ -1,0 +1,10 @@
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\bin\Debug\CMS.Tools.dll
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\bin\Debug\CMS.Tools.pdb
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\obj\Debug\CMS.Tools.csproj.CoreCompileInputs.cache
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\obj\Debug\CMS.Tools.dll
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\obj\Debug\CMS.Tools.pdb
+C:\Users\Helen\Desktop\Code.Hub\WPF-WCF-MVVM\20181116\CMS\CMS.Tools\bin\Debug\CMS.Tools.dll
+C:\Users\Helen\Desktop\Code.Hub\WPF-WCF-MVVM\20181116\CMS\CMS.Tools\bin\Debug\CMS.Tools.pdb
+C:\Users\Helen\Desktop\Code.Hub\WPF-WCF-MVVM\20181116\CMS\CMS.Tools\obj\Debug\CMS.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Helen\Desktop\Code.Hub\WPF-WCF-MVVM\20181116\CMS\CMS.Tools\obj\Debug\CMS.Tools.dll
+C:\Users\Helen\Desktop\Code.Hub\WPF-WCF-MVVM\20181116\CMS\CMS.Tools\obj\Debug\CMS.Tools.pdb
